@@ -5,5 +5,5 @@ let display = document.getElementById('display');
 
 
 btn.addEventListener('click',()=>{
-   
+ 
 })
