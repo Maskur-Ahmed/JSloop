@@ -1,7 +1,9 @@
-//* --------------for loop------------------;
-//stage 1: syntax;
+//*================Dom start=============
+let input = document.getElementById('input');
+let btn = document.getElementById('btn');
+let display = document.getElementById('display');
 
-for(i=1;i<=20;){
-    console.log(2 + ' x ' + i + ' = ' + 2*i )
-    i++;
-}
+
+btn.addEventListener('click',()=>{
+   
+})
