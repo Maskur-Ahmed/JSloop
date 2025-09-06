@@ -55,6 +55,12 @@
 
 //* task 4:
 
-for(i=1;i<=10;i++){
-    console.log(9 + ' x ' + i + ' = ' + 9*i);
-}
+// for(i=1;i<=10;i++){
+//     console.log(9 + ' x ' + i + ' = ' + 9*i);
+// }
+
+//* task 5:
+
+// for(c=81;c>=65;c--){
+//     console.log(c);
+// }
