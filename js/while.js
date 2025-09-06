@@ -75,3 +75,10 @@ while(num <=131 ){
 //     console.log(5 + " x " + nNumber + ' = ' + 5*nNumber);
 //     nNumber++
 // }
+
+let cNumber = 21;
+
+while(cNumber >= 15){
+    console.log(cNumber)
+    cNumber--;
+}
