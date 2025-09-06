@@ -8,12 +8,20 @@
 
 //*task 2 :
 
-let num = 61;
-while(num<=100){
-    console.log(num);
-    if(num % 2 === 1){
-        console.log('this is odd number',num )
-    }
-    num++
-}
+// let num = 61;
+// while(num<=100){
+//     console.log(num);
+//     if(num % 2 === 1){
+//         console.log('this is odd number',num )
+//     }
+//     num++
+// }
 
+let num = 78;
+while(num <= 98){
+    console.log(num);
+    if(num % 2 === 0){
+        console.log('this is even number',num);
+    }
+    num++;
+};
