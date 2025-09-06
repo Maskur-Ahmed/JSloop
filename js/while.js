@@ -52,15 +52,26 @@ while(num <=131 ){
 }
 */
 
-let num = 206;
-let sum = 0;
-while(num <= 311){
-    console.log(num);
+//* task 5 :
 
-    if(num % 2 === 0){
-         sum = sum+num;
-        console.log('this is some value',sum);
-    }
+// let num = 206;
+// let sum = 0;
+// while(num <= 311){
+//     console.log(num);
 
-    num++;
-};
+//     if(num % 2 === 0){
+//          sum = sum+num;
+//         console.log('this is some value',sum);
+//     }
+
+//     num++;
+// };
+
+//* task 6 :
+
+// let nNumber = 1;
+
+// while(nNumber <= 10){
+//     console.log(5 + " x " + nNumber + ' = ' + 5*nNumber);
+//     nNumber++
+// }
