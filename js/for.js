@@ -11,7 +11,7 @@
 // }
 
 //* task 2:
-// subtask 1:
+//!subtask 1:
 
 // for(n =61 ; n<=100; n++){
 //     // console.log(n);
@@ -20,7 +20,7 @@
 //     }
 // }
 
-//subtask 2:
+//!subtask 2:
 
 // for(n=78; n<=98; n++){
 //     if(n%2 ===  0){
@@ -29,12 +29,27 @@
 // }
 
 //* task 3:
-let sum = 0;
-for(let n=91; n<=129; n++){
+//!subtask 1:
 
-   if(n%2===1){
-    sum = sum+n
-    console.log(sum);
-   }
-   
-}
+// let sum = 0;
+// for(let n=91; n<=129; n++){
+
+//    if(n%2===1){
+//     sum = sum+n
+//     console.log(sum);
+//    }
+
+// }
+
+//!subtask 2:
+// let sum = 0;
+
+// for(num =51; num<=85; num++){
+
+//     if(num%2===0){
+//     sum = sum + num;
+//     console.log(sum);
+//     }
+
+// }
+
