@@ -76,9 +76,11 @@ while(num <=131 ){
 //     nNumber++
 // }
 
-let cNumber = 21;
+//* task 7 :
 
-while(cNumber >= 15){
-    console.log(cNumber)
-    cNumber--;
-}
+// let cNumber = 21;
+
+// while(cNumber >= 15){
+//     console.log(cNumber)
+//     cNumber--;
+// }
