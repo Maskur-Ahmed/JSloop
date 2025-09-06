@@ -31,8 +31,10 @@
 //* task 3:
 let sum = 0;
 for(let n=91; n<=129; n++){
+
    if(n%2===1){
     sum = sum+n
     console.log(sum);
    }
+   
 }
