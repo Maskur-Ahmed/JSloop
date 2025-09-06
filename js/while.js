@@ -1,4 +1,4 @@
-//*task one :
+//* task 1 :
 
 // let num = 1;
 // while(num<=60){
@@ -6,7 +6,7 @@
 //     num++;
 // }
 
-//*task 2 :
+//* task 2 :
 
 // let num = 61;
 // while(num<=100){
@@ -17,11 +17,50 @@
 //     num++
 // }
 
-let num = 78;
-while(num <= 98){
+//* task 3 :
+
+// let num = 78;
+// while(num <= 98){
+//     console.log(num);
+//     if(num % 2 === 0){
+//         console.log('this is even number',num);
+//     }
+//     num++;
+// };
+
+//* task 4 :
+
+/*
+//at first amake ekta variable nite hobe jekhane number store thakbe;
+
+let num = 81;
+
+//tarpor amake arekta variable nite hobe jekhane number er sum add hobe;
+
+let sum = 0;
+
+//ekhon loop chalate hobe;
+
+while(num <=131 ){
     console.log(num);
-    if(num % 2 === 0){
-        console.log('this is even number',num);
+    //ekahne condition dite hobe even naki odd hole sum korbe;
+    if(num % 2 === 1){
+       sum = sum + num;
+       console.log('this is sum result',sum)
     }
+    num++
+}
+*/
+
+let num = 206;
+let sum = 0;
+while(num <= 311){
+    console.log(num);
+
+    if(num % 2 === 0){
+         sum = sum+num;
+        console.log('this is some value',sum);
+    }
+
     num++;
 };
