@@ -20,4 +20,11 @@
 //     }
 // }
 
-let num 
+let num = 1;
+while(num<20){
+    console.log(num)
+  if(num > 10){
+    break
+  }
+    num++;
+}
