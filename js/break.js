@@ -37,6 +37,7 @@
 //   console.log(n);
 // }
 
+//* task 1:
 
 // for(n=1;n<=200;n++){
 //   console.log(n);
