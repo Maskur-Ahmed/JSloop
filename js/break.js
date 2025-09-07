@@ -34,5 +34,5 @@ for(let n = 1; n<20; n++){
     continue
   }
 
-  console.log(n)
+  console.log(n);
 }
