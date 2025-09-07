@@ -20,11 +20,18 @@
 //     }
 // }
 
-let num = 1;
-while(num<20){
-    console.log(num)
-  if(num > 10){
-    break
+// let num = 1;
+// while(num<20){
+//     console.log(num)
+//   if(num > 10){
+//     break
+//   }
+//     num++;
+// }
+
+for(let n = 1; n<20; n++){
+  if(n%5 !== 1){
+    continue
   }
-    num++;
+  console.log(n)
 }
