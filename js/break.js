@@ -30,7 +30,7 @@
 // }
 
 for(let n = 1; n<20; n++){
-  if(n%3 !== 1){
+  if(n%3 !== 2){
     continue
   }
 
