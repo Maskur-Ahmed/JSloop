@@ -29,10 +29,27 @@
 //     num++;
 // }
 
-for(let n = 1; n<20; n++){
-  if(n%3 !== 2){
-    continue
-  }
+// for(let n = 1; n<20; n++){
+//   if(n%3 !== 2){
+//     continue
+//   }
 
-  console.log(n);
+//   console.log(n);
+// }
+
+
+// for(n=1;n<=200;n++){
+//   console.log(n);
+//   if( n >= 100){
+//     break
+//   }
+// }
+
+let num = 1;
+while(num<200){
+  console.log(num)
+  if(num>=100){
+    break
+  }
+  num++;
 }
