@@ -30,8 +30,9 @@
 // }
 
 for(let n = 1; n<20; n++){
-  if(n%5 !== 1){
+  if(n%3 !== 1){
     continue
   }
+
   console.log(n)
 }
