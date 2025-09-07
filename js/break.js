@@ -46,11 +46,25 @@
 //   }
 // }
 
-let num = 1;
-while(num<200){
-  console.log(num)
-  if(num>=100){
-    break
+// let num = 1;
+// while(num<200){
+//   console.log(num)
+//   if(num>=100){
+//     break
+//   }
+//   num++;
+// }
+
+//* task 2:
+
+let i = 1;
+let sum = 0;
+while(i<100){
+  sum=sum+i
+  console.log(sum)
+  if(sum>=100){
+    break;
   }
-  num++;
+    i++;
 }
+
